@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Org, sandbox e sviluppo](README.md)
+* [Indice](README.md)
+* [Org, sandbox e sviluppo](<README (1).md>)
 * [Developer I](developer-i.md)
