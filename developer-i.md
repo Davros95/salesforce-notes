@@ -4,7 +4,7 @@
 
 ### &#x20;<a href="#toc162445380" id="toc162445380"></a>
 
-### 👁️[Asincrono](https://developer.salesforce.com/trailhead/module/asynchronous\_apex?\_ga=2.87241425.875750910.1700039759-1875400034.1696324836) <a href="#toc162445382" id="toc162445382"></a>
+### [Asincrono](https://developer.salesforce.com/trailhead/module/asynchronous\_apex?\_ga=2.87241425.875750910.1700039759-1875400034.1696324836) <a href="#toc162445382" id="toc162445382"></a>
 
 I test devono essere eseguiti in modo sincrono!\
 Racchiudere le chiamate ai metodi tra Test.startTest() e Test.stopTest()

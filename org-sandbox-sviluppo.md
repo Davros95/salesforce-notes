@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Org, sandbox e sviluppo
 
 I **tipi di org** sono _Production, Trial, Sandbox, Scratch, Developer org_ (non confondere con il tipo di sandbox!) e _Partner Developer org_ (più ricca).
