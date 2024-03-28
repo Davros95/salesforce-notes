@@ -20,3 +20,12 @@ Caratteristiche principali:
 ### Note sui CS <a href="#toc162445401" id="toc162445401"></a>
 
 1. While custom settings data is included in sandbox copies, it is treated as data for the purposes of Apex test isolation. Apex tests must use SeeAllData=true to see existing custom settings data in the organization. As a best practice, create the required custom settings data in your test setup.
+
+
+![Immagine che contiene testo, schermata, Carattere, informazione
+
+Descrizione generata automaticamente](.gitbook/assets/5.png)
+
+* [https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex\_customsettings.htm](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex\_customsettings.htm)
+* [https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex\_methods\_system\_custom\_settings.htm](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex\_methods\_system\_custom\_settings.htm)
+

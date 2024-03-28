@@ -36,12 +36,3 @@ trigger TriggerName on ObjectName (eventi) {}
 #### Dubbi:
 
 1. Fin dove si spingono “Trigger.new/.old” ? In SOQL il sistema accede agli Id se scritto “WHERE Id In :Trigger.New” ma sono liste di oggetti; se provo a riferirmi ad un altro campo?
-
-# Custom settings / metadata <a href="#toc162445445" id="toc162445445"></a>
-
-![Immagine che contiene testo, schermata, Carattere, informazione
-
-Descrizione generata automaticamente](.gitbook/assets/5.png)
-
-* [https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex\_customsettings.htm](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex\_customsettings.htm)
-* [https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex\_methods\_system\_custom\_settings.htm](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex\_methods\_system\_custom\_settings.htm)
